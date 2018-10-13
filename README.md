@@ -1,4 +1,7 @@
 # aws-flash
+
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/aws-flash.svg)](https://www.guardrails.io)
+
 Study guide for AWS Certification
 
 ### Background
